@@ -7,7 +7,7 @@ I want to get into open source projects, and getting better at using GitHub over
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZachDNichols&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZachDNichols&show_icons=true&theme=dark)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZachDNichols&show_icons=true&theme=dark" />
 </a>
 </br>
 </br>
