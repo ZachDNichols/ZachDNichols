@@ -3,7 +3,13 @@ I am a student currently attending Bemidji State University (BSU). I'm new to Gi
 </br>
 </br>
 I want to get into open source projects, and getting better at using GitHub overall. If you need to reach me, try my Discord: Mr. Fishward#0005 or email me at zachdnichols@gmail.com. </br> </br>
-![alt text](https://github.com/ZachDNichols/ZachDNichols/blob/main/DSC02123.jpg?raw=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZachDNichols&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZachDNichols&show_icons=true&theme=dark)" />
+</a>
+
 
 <!--
 **ZachDNichols/ZachDNichols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
