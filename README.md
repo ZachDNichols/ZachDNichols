@@ -1,4 +1,4 @@
-# Hello! My name is Zach Nichols. (he/him) 
+# Hello! My name is Zach Nichols (he/him) 
 I am a student currently attending Bemidji State University (BSU). I'm new to GitHub, but looking to learn. I currently know Python, C#, C++, Rust, HTML, and CSS to varying degrees. I am currently learning C++, HTML, CSS, and Rust.
 </br>
 </br>
