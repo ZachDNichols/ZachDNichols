@@ -2,7 +2,7 @@
 I am a student currently attending Bemidji State University (BSU). I'm new to GitHub, but looking to learn. I currently know Python, C#, C++, Rust, HTML, and CSS to varying degrees. I am currently learning C++, HTML, CSS, and Rust. (My commit history might look a bit strange at this time, as I had to clear out some branches to fix an issue with git lfs.)
 </br>
 </br>
-I want to get into open source projects, and getting better at using GitHub overall. If you need to reach me, try my Discord: Mr. Fishward#0005 or email me at zachdnichols@gmail.com. </br> </br>
+I want to get into open source projects, and getting better at using GitHub overall. If you need to reach me, try my Discord: Mr. Fishward#4305. </br> </br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZachDNichols&show_icons=true&theme=dark" />
 </a>
