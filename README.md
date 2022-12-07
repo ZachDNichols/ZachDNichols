@@ -1,5 +1,5 @@
 # Hello! My name is Zach Nichols (he/him) 
-I'm a computer science major. I currently know and still learning Python, C#, C++, Rust, HTML, and CSS to varying degrees. (My commit history might look a bit strange at this time, as I had to clear out some branches to fix an issue with git lfs.)
+I'm a computer science major. I currently know Python, C#, C++, Rust, HTML, and CSS to varying degrees. (My commit history might look a bit strange at this time, as I had to clear out some branches to fix an issue with git lfs.)
 </br>
 </br>
 I want to get into open source projects and creating some of my own. </br>
