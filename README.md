@@ -9,9 +9,6 @@ I want to get into open source projects and creating some of my own. </br>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZachDNichols&show_icons=true&theme=dark" />
 </a>
-</br>
-</br>
-<img align="center" src="https://github.com/ZachDNichols/ZachDNichols/blob/main/DSC02123.jpg?raw=true" />
 
 <!--
 **ZachDNichols/ZachDNichols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
